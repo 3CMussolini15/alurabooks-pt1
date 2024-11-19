@@ -1,9 +1,11 @@
-/*Rafael Freitas 3ºC*/
+/*Rafael Freitas 3ºC  13/11*/
 
 .tópicos {
     background: var(--azul-degrade);
     text-align: center;
 }
+
+/*Rafael Freitas 3ºC  13/11*/
 
 .tópicos__titulo {
     color: var(--branco);
@@ -11,15 +13,21 @@
     margin-bottom: 1em;
 }
 
+/*Rafael Freitas 3ºC  13/11*/
+
 .tópicos__lista {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 
+/*Rafael Freitas 3ºC  13/11*/
+
 .tópicos__item {
     margin: 2em 0.5em;
 }
+
+/*Rafael Freitas 3ºC  13/11*/
 
 .tópicos__link {
     color: var(--branco);
