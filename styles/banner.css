@@ -1,4 +1,4 @@
-/*Rafael Freitas 3ºC*/
+/*Rafael Freitas 3ºC  13/11*/
 
 .banner{
     background: var(--azul-degrade);
@@ -7,15 +7,21 @@
     padding: 2.5em 2em;
 }
 
+/*Rafael Freitas 3ºC  13/11*/
+
 .banner__titulo {
     font-size: 18px;
     font-weight: 700;
 }
 
+/*Rafael Freitas 3ºC  13/11*/
+
 .banner__texto{
     font-weight: 500;
     margin: 1em 0;
 }
+
+/*Rafael Freitas 3ºC  13/11*/
 
 .banner__pesquisa {
     background-color: transparent;
@@ -25,7 +31,9 @@
     padding: 1em;
     width: 100%;
 }
-  
+
+/*Rafael Freitas 3ºC  13/11*/
+
 .banner__pesquisa::placeholder{
     font-family: var(--fonte-principal);
     font-size: 14px;
