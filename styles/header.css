@@ -1,4 +1,4 @@
-/*Rafael Freitas 3ºC*/
+/*Rafael Freitas 3ºC  13/11*/
 
 .cabeçalho__menu-hamburguer{
     width: 24px;
@@ -9,6 +9,8 @@
     display: inline-block;
 }
 
+/*Rafael Freitas 3ºC  13/11*/
+
 .cabeçalho{
     background-color: var(--branco);
     display: flex;
@@ -16,6 +18,8 @@
     align-items: center;
     position: relative;
 }
+
+/*Rafael Freitas 3ºC  13/11*/
 
 .container{
     display: flex;
@@ -25,6 +29,8 @@
 .container__imagem{
     padding: 1em;
 }
+
+/*Rafael Freitas 3ºC  13/11*/
 
 .lista-menu{
      display: none;
@@ -37,15 +43,21 @@
     display: block;
 }
 
+/*Rafael Freitas 3ºC  13/11*/
+
 .lista-menu__titulo, .lista-menu__item{
     padding: 1em;
     background-color: var(--branco);
 }
 
+/*Rafael Freitas 3ºC  13/11*/
+
 .lista-menu__titulo {
     color: var(--laranja);
     font-weight: 700;
 }
+
+/*Rafael Freitas 3ºC  13/11*/
 
 .lista-menu__link {
     background: var(--azul-degrade);
@@ -55,6 +67,8 @@
     text-decoration: none;
     text-transform: uppercase;
 }
+
+/*Rafael Freitas 3ºC  13/11*/
 
 .container__botao {
     display: none;
